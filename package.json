@@ -1,19 +1,11 @@
 {
-  "name": "webapp-actions",
-  "version": "1.0.0",
-  "description": "",
-  "main": "node-js-example.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pimvandenderen/webapp-actions.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pimvandenderen/webapp-actions/issues"
-  },
-  "homepage": "https://github.com/pimvandenderen/webapp-actions#readme"
+    "name": "app-service-hello-world",
+    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    }
 }
