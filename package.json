@@ -1,0 +1,19 @@
+{
+  "name": "webapp-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-js-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimvandenderen/webapp-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pimvandenderen/webapp-actions/issues"
+  },
+  "homepage": "https://github.com/pimvandenderen/webapp-actions#readme"
+}
