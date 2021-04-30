@@ -20,7 +20,7 @@ on:
 #    types: [created]
    push: 
     branches: 
-      - 'MyBranch'
+      - '*'
 
 
 env:
